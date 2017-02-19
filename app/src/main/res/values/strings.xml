@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="romantic_comedy">Romantic Comedy</string>
+    <string name="search">Search</string>
+    <string name="navigation_previous_screen">Navigation to previous screen.</string>
+    <string name="no_result">No result found.</string>
+    <string name="single_result">" result found."</string>
+    <string name="multiple_result">" results found."</string>
+</resources>
